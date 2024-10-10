@@ -1,0 +1,10 @@
+2024-10-09 22:07:30,638 - INFO - START correlation_heatmap =============================================
+2024-10-09 22:07:30,638 - INFO - START correlation_heatmap Start Time = 2024-10-09 22:07:30
+2024-10-09 22:07:30,638 - INFO - correlation_heatmap Step 0 - Initialize the configuration file parser
+2024-10-09 22:07:30,691 - INFO - correlation_heatmap - Step 1 - Load ANY data set for which to run discovery or data profiling
+2024-10-09 22:07:30,700 - INFO - correlation_heatmap - Step 1 - Loaded data set titanic_data that contains 1310 rows and 14 columns.
+2024-10-09 22:07:31,107 - INFO - PERFORMANCE correlation_heatmap The total process duration was:0.47
+2024-10-09 22:07:31,107 - INFO - PERFORMANCE correlation_heatmap Stop Time = 2024-10-09 22:07:31
+2024-10-09 22:07:31,107 - INFO - PERFORMANCE correlation_heatmap Short process duration less than 3 Seconds:0.47
+2024-10-09 22:07:31,107 - INFO - PERFORMANCE correlation_heatmap Performance optimization is not reccomended
+2024-10-09 22:07:31,107 - INFO - END correlation_heatmap =============================================
