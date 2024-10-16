@@ -96,11 +96,8 @@ To get started with the **Correlation Heatmap Sn** solution repository, follow t
  ![additional_image](AI feature engineering.png)  <br>![additional_image](correlation_heatmap.png)  <br>![additional_image](correlation_heatmap_example.png)  <br>![additional_image](Finding_correlations.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
