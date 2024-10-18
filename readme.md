@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Correlation Heatmap Sn 
-    ## A correlation heatmap provides insights to critical relationships within data.
+    
+# Correlation Heatmap Sn 
+
+## A correlation heatmap provides insights to critical relationships within data.
+
     ![Image image_filename](code.png)
 
 # Table of Contents
@@ -82,9 +85,9 @@ To get started with the **Correlation Heatmap Sn** solution repository, follow t
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Correlation Heatmap Sn** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -94,6 +97,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](AI feature engineering.png)  <br>![additional_image](correlation_heatmap.png)  <br>![additional_image](correlation_heatmap_example.png)  <br>![additional_image](Finding_correlations.png)  <br>
