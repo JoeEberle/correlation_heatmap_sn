@@ -1,11 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# Correlation Heatmap Sn - A correlation heatmap provides insights to critical relationships within data.
-A correlation heatmap provides insights to critical relationships within data.
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# Correlation Heatmap Sn - A correlation heatmap provides insights to critical relationships within data.![Image image_filename](code.png)
 
 # Table of Contents
 
@@ -66,9 +59,7 @@ The use of automated correlation heatmaps can lead to significant ROI for enterp
 ## Conclusion
 In conclusion, correlation heatmaps are a powerful tool for anyone involved in data analysis and feature engineering. Their ability to automate and visualize correlations not only saves time but also enhances the accuracy and clarity of data insights, providing substantial benefits to both analysts and businesses.
 
-
 ![Image image_filename](sample.png)
-
 ## Getting Started
 To get started with the **Correlation Heatmap Sn** solution repository, follow these steps:
 1. Clone the repository to your local machine.
@@ -83,6 +74,9 @@ To get started with the **Correlation Heatmap Sn** solution repository, follow t
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -92,13 +86,11 @@ To get started with the **Correlation Heatmap Sn** solution repository, follow t
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](AI feature engineering.png)  <br>![additional_image](correlation_heatmap.png)  <br>![additional_image](correlation_heatmap_example.png)  <br>![additional_image](Finding_correlations.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
