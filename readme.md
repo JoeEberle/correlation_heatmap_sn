@@ -4,7 +4,20 @@
 
 ## A correlation heatmap provides insights to critical relationships within data.
 
-    ![Image image_filename](code.png)
+    
+# Table of Contents
+
+- [Solution Overview](#Solution-Overview)
+- [Return on Investment (ROI)](#return-on-investment-roi)
+- [How it Works](#how-it-works)
+- [Conclusion](#conclusion)
+- [Getting Started](#getting-started)
+- [Solution Features](#solution-features)
+- [Notebook Features](#notebook-features)
+- [Deliverables or Figures](#deliverables-or-figures)
+- [Contact Information](#contact-information)
+
+![Image image_filename](code.png)
 
 # Table of Contents
 
