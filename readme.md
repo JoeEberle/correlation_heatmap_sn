@@ -62,7 +62,7 @@ In the realm of data analysis, identifying the relationships between variables i
 
 ### Case Study: Identifying Key Data Elements in Disease Analysis
 
-Consider a case study where researchers are analyzing **millions of data points** from electronic health records to understand the **disease progression of a single patient**. In this scenario, identifying the most critical data elements—such as specific biomarkers, treatment history, or environmental factors—is essential for providing personalized care. By using **feature engineering** and **correlation heatmaps**, researchers can sift through vast amounts of patient data to discover which variables, such as blood glucose levels or cholesterol, have the strongest correlations with the patient’s disease progression. This targeted approach helps reduce the complexity of the dataset while focusing on the most impactful features, allowing for better insights into the patient’s condition and improving treatment strategies.
+Consider a case study where researchers are analyzing **millions of data points** from electronic health records to understand the **disease progression of a single patient**. In this scenario, identifying the most critical data elementsâ€”such as specific biomarkers, treatment history, or environmental factorsâ€”is essential for providing personalized care. By using **feature engineering** and **correlation heatmaps**, researchers can sift through vast amounts of patient data to discover which variables, such as blood glucose levels or cholesterol, have the strongest correlations with the patientâ€™s disease progression. This targeted approach helps reduce the complexity of the dataset while focusing on the most impactful features, allowing for better insights into the patientâ€™s condition and improving treatment strategies.
 
 
 
@@ -127,7 +127,7 @@ These features are designed to provide everything you need for **Correlation Hea
  ![additional_image](AI feature engineering.png)  <br>![additional_image](correlation_heatmap.png)  <br>![additional_image](correlation_heatmap_example.png)  <br>![additional_image](Finding_correlations.png)  <br>
     
 
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
+## Github https://github.com/SynNAC01/ - Email  michael.mcnees@syndicusinc.com 
     
 ![Developer](developer.png)
 
